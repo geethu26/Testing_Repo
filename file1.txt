@@ -1,0 +1,2 @@
+This is my first file of this directory.
+I'm learning how to use Git Commands.
